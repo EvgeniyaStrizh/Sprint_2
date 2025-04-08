@@ -54,3 +54,5 @@ for method in football_methods:
 
 for method in hockey_methods:
     print(method())
+
+    
